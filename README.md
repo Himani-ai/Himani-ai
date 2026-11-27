@@ -1,164 +1,192 @@
 <div align="center">
 
-<!-- Modern Minimalist Research Header -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                     STEALTH RESEARCH LAB : HERO                    -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:0a0f1d,100:030712&height=210&section=header&text=HIMANI&fontSize=36&fontColor=00F2FE&fontAlignY=38&desc=Research%20Portfolio%20%E2%80%A2%20Systems%20%26%20Materials%20Laboratory&descSize=14&descAlignY=62&descColor=94A3B8">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:0a0f1d,100:030712&height=210&section=header&text=HIMANI&fontSize=36&fontColor=00F2FE&fontAlignY=38&desc=Research%20Portfolio%20%E2%80%A2%20Systems%20%26%20Materials%20Laboratory&descSize=14&descAlignY=62&descColor=94A3B8" alt="Himani Research Portfolio" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:030712,30:080E1E,70:120826,100:030712&height=280&section=header&text=H%20I%20M%20A%20N%20I&fontSize=52&fontColor=00F2FE&fontAlignY=36&desc=AUTONOMOUS%20SYSTEMS%20%E2%80%A2%20PHYSICAL%20INTELLIGENCE%20%E2%80%A2%20STEALTH%20R%26D&descSize=13&descAlignY=58&descColor=7DD3FC">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,30:080E1E,70:120826,100:030712&height=280&section=header&text=H%20I%20M%20A%20N%20I&fontSize=52&fontColor=00F2FE&fontAlignY=36&desc=AUTONOMOUS%20SYSTEMS%20%E2%80%A2%20PHYSICAL%20INTELLIGENCE%20%E2%80%A2%20STEALTH%20R%26D&descSize=13&descAlignY=58&descColor=7DD3FC" width="100%" alt="Stealth Terminal Header">
 </picture>
 
-<!-- Research Identity Badges -->
+<!-- TELEMETRY HUD STRIP -->
 <p align="center">
-  <a href="#-research-interests"><img src="https://img.shields.io/badge/FOCUS-Autonomous%20Systems%20%26%20Materials-00D2FF?style=for-the-badge&logoColor=white&labelColor=030712" alt="Focus"></a>
-  <a href="#-current-research-directions"><img src="https://img.shields.io/badge/INITIATIVES-Active%20Research-8B5CF6?style=for-the-badge&logoColor=white&labelColor=030712" alt="Initiatives"></a>
-  <a href="#-scholarly-preprints--publications"><img src="https://img.shields.io/badge/PAPERS-Preprints%20%26%20Inquiries-10B981?style=for-the-badge&logoColor=white&labelColor=030712" alt="Publications"></a>
-  <a href="#-contact--academic-inquiries"><img src="https://img.shields.io/badge/CONNECT-Lab%20%2F%20Collaboration-64748B?style=for-the-badge&logoColor=white&labelColor=030712" alt="Connect"></a>
+  <img src="https://img.shields.io/badge/%E2%97%8F%20SYSTEM%20STATUS-ONLINE%20%5BACTIVE_NODE%5D-00F2FE?style=for-the-badge&logoColor=white&labelColor=030712" alt="System Status">
+  <img src="https://img.shields.io/badge/CLEARANCE-STEALTH%20R%26D-8B5CF6?style=for-the-badge&logoColor=white&labelColor=030712" alt="Security Clearance">
+  <img src="https://img.shields.io/badge/INTELLECTUAL%20PROPERTY-RESTRICTED-10B981?style=for-the-badge&logoColor=white&labelColor=030712" alt="IP Status">
+  <img src="https://img.shields.io/badge/LOCATION-DISTRIBUTED%20FABRIC-64748B?style=for-the-badge&logoColor=white&labelColor=030712" alt="Location">
 </p>
 
-<p align="center">
-  <b>Investigating autonomous self-healing distributed computing, programmable networks, and sustainable functional nanomaterials.</b>
-  <br>
-  <i>Bridging distributed systems architecture, computational intelligence, and experimental material physics.</i>
-</p>
+<!-- PUNCHY HIGH-IMPACT HOOK -->
+<samp>
+  <b>[ COGNITIVE SYSTEMS • SELF-HEALING TOPOLOGIES • BIO-SYNTHESIZED NANO-TRANSDUCERS ]</b>
+</samp>
 
----
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=700&height=35&lines=Building+autonomous+substrates+that+heal+before+they+fail.;Synthesizing+functional+nanomaterials+from+living+matter.;Pioneering+non-centralized+computing+fabrics.;Show+expertise.+Hide+implementation." alt="Typing Terminal">
+
+<br>
+
+<p align="center">
+  <a href="#-classified-divisions"><img src="https://img.shields.io/badge/01%20%2F%20DIVISIONS-030712?style=flat-square&logo=target&logoColor=00F2FE"></a>
+  &nbsp;&nbsp;
+  <a href="#-flagship-technologies"><img src="https://img.shields.io/badge/02%20%2F%20FLAGSHIPS-030712?style=flat-square&logo=cpu&logoColor=8B5CF6"></a>
+  &nbsp;&nbsp;
+  <a href="#-stealth-stack"><img src="https://img.shields.io/badge/03%20%2F%20SUBSTRATE-030712?style=flat-square&logo=codeforces&logoColor=10B981"></a>
+  &nbsp;&nbsp;
+  <a href="#-secure-channel"><img src="https://img.shields.io/badge/04%20%2F%20TRANSMISSION-030712?style=flat-square&logo=signal&logoColor=00D2FF"></a>
+</p>
 
 </div>
 
-## 🔬 Research Statement
+---
 
-> *"How can computing infrastructure and physical materials autonomously adapt, endure, and self-stabilize in complex, volatile environments without centralized intervention?"*
+### ⚡ // 00 : THE MANIFESTO
 
-My research explores the convergence of **decentralized system autonomy** and **functional material interfaces**. I study foundational principles that enable networked software systems to self-organize and recover under severe disruption, alongside sustainable synthesis pathways for green nanocomposites engineered for sensing and energy applications. 
+<div align="center">
 
-By unifying systems-level mathematical modeling with empirical laboratory experimentation, my work aims to build resilient, next-generation computational and physical substrates.
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  "Fragile infrastructure waits for central authority to restore order.                │
+│   Resilient infrastructure reorganizes at the speed of signal."                        │
+│                                                                                        │
+│   We engineer computing systems that self-heal under catastrophic partition            │
+│   and physical materials that transduce energy through living plant chemistry.         │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-## 🧭 Areas of Interest
+### 🌐 // 01 : CLASSIFIED DIVISIONS
 
-<table>
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Autonomous Distributed Systems</h3>
-      <p>Decentralized coordination, fault-resilient computing fabrics, topological self-healing, and peer-to-peer systems designed for high-availability environments.</p>
+    <td width="50%" style="background-color: #030712; padding: 20px; border-radius: 8px; border: 1px solid #1E293B;">
+      <kbd>DIV-01</kbd> &nbsp; <b>AUTONOMOUS DISTRIBUTED SYSTEMS</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/PRIMITIVE-SELF--HEALING%20MESH-00F2FE?style=flat-square&labelColor=0B0F17" alt="Mesh">
+      <br><br>
+      <i>Zero-coordinator network fabrics designed to predict topological collapse and execute localized dynamic re-routing in sub-millisecond windows.</i>
+      <br><br>
+      <code>› Focus: Decentralized Consensus • Partitions • In-Kernel Telemetry</code>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧪 Sustainable Nanomaterials</h3>
-      <p>Green phytochemical synthesis of functional metal-oxide semiconductor nanocomposites, conductive polymer interfaces, and optoelectronic characterization.</p>
+    <td width="50%" style="background-color: #030712; padding: 20px; border-radius: 8px; border: 1px solid #1E293B;">
+      <kbd>DIV-02</kbd> &nbsp; <b>GREEN FUNCTIONAL NANOMATERIALS</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/PRIMITIVE-BIO--TRANSDUCTION-10B981?style=flat-square&labelColor=0B0F17" alt="Bio">
+      <br><br>
+      <i>Synthesizing optoelectronic metal-oxide semiconductor nanocomposites using living plant catalysts to unlock clean photochemical remediation.</i>
+      <br><br>
+      <code>› Focus: Phyto-Reduction • Conducting Polymers • Bandgap Tuning</code>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Programmable Network Intelligence</h3>
-      <p>Software-Defined Networking (SDN), real-time telemetry architectures, traffic flow optimization, and adaptive control-plane design.</p>
+    <td width="50%" style="background-color: #030712; padding: 20px; border-radius: 8px; border: 1px solid #1E293B;">
+      <kbd>DIV-03</kbd> &nbsp; <b>PROGRAMMABLE NETWORK INTELLIGENCE</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/PRIMITIVE-SOFTWARE--DEFINED%20CONTROL-8B5CF6?style=flat-square&labelColor=0B0F17" alt="SDN">
+      <br><br>
+      <i>Event-driven line-rate telemetry pipelines and autonomous flow rebalancing designed for high-concurrency programmable network switches.</i>
+      <br><br>
+      <code>› Focus: OpenFlow Telemetry • TCAM Optimization • Traffic Matrices</code>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Computational Intelligence</h3>
-      <p>Graph-based machine learning, spatial-temporal modeling, and data-driven methods applied to physical networks and scientific data analysis.</p>
+    <td width="50%" style="background-color: #030712; padding: 20px; border-radius: 8px; border: 1px solid #1E293B;">
+      <kbd>DIV-04</kbd> &nbsp; <b>COMPUTATIONAL GRAPH INTELLIGENCE</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/PRIMITIVE-SPATIO--TEMPORAL%20AI-EC4899?style=flat-square&labelColor=0B0F17" alt="AI">
+      <br><br>
+      <i>Graph neural networks for spatial-temporal state forecasting, dynamic path optimization, and automated scientific spectroscopy.</i>
+      <br><br>
+      <code>› Focus: Graph Attention • Spectral Analysis • Non-Euclidean Learning</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔬 Current Research Directions
+### 🛰️ // 02 : FLAGSHIP TECHNOLOGIES
 
 <details open>
-<summary><b>🛰️ Adaptive Self-Organizing Networks (ASON)</b></summary>
+<summary><b>[ PROJECT ASON ] &nbsp;—&nbsp; ADAPTIVE SELF-ORGANIZING NETWORK</b> &nbsp;<code>[STEALTH]</code></summary>
 <br>
 
-* **Vision:** Advancing autonomous network resilience by investigating self-governing architectural models capable of dynamic topology preservation.
-* **Domain:** Distributed Systems · Network Resilience · Autonomous Computing
-* **Purpose:** Addressing structural vulnerability and multi-point partition challenges in mission-critical and large-scale decentralized infrastructures.
-* **Status:** *Active Research Program · Proof-of-concept validation in progress.*
-* **Inquiries:** *Technical whitepapers, evaluation methodology, and architectural concepts available upon verified academic or research request.*
-
-</details>
-
-<details open>
-<summary><b>🌱 Green-Synthesized Functional Nanocomposites</b></summary>
-<br>
-
-* **Vision:** Developing sustainable, plant-mediated synthesis routes for semiconductor-polymer hybrid nanomaterials with optimized optoelectronic properties.
-* **Domain:** Materials Chemistry · Nanotechnology · Green Synthesis
-* **Purpose:** Eliminating hazardous chemical precursors while engineering enhanced optical and conductive characteristics for environmental and sensing applications.
-* **Status:** *Manuscript in peer review · Experimental characterization complete.*
-* **Inquiries:** *Spectroscopic datasets and preprints accessible to academic collaborators.*
-
-</details>
-
-<details open>
-<summary><b>⚡ Intelligent Telemetry & Programmable Control Planes</b></summary>
-<br>
-
-* **Vision:** Exploring high-resolution telemetry models and predictive flow management in programmable software-defined networks.
-* **Domain:** Software-Defined Networking · In-Kernel Telemetry · Traffic Systems
-* **Purpose:** Mitigating congestion bottlenecks and improving resource utilization across dynamic network topologies.
-* **Status:** *Prototyping & simulation.*
-
-</details>
-
-<details open>
-<summary><b>📊 Machine Learning for Scientific & Topological Systems</b></summary>
-<br>
-
-* **Vision:** Formulating graph neural architectures and computational pipelines to analyze topological dynamics and automate spectroscopic analysis.
-* **Domain:** Graph Neural Networks · Scientific Computing · Data Science
-* **Purpose:** Accelerating structural discovery and enabling real-time inference on complex network graphs.
-* **Status:** *Algorithmic design & exploratory modeling.*
-
-</details>
-
----
-
-## 📚 Selected Initiatives
-
-| Initiative | Research Area | Focus & Scope | Inquiries |
-| :--- | :--- | :--- | :---: |
-| **Project ASON** | Distributed Systems | Self-organizing network resilience & autonomous recovery | [Request Brief](mailto:himani.research@institution.edu?subject=ASON%20Research%20Inquiry) |
-| **Bio-Nanomaterials** | Materials Science | Green synthesis of conductive metal-oxide nanocomposites | [Request Preprint](mailto:himani.research@institution.edu?subject=Nanomaterials%20Preprint%20Inquiry) |
-| **Sentinel Systems** | Network Intelligence | Programmable SDN telemetry & dynamic flow coordination | [Collaborate](mailto:himani.research@institution.edu?subject=Network%20Intelligence%20Inquiry) |
-| **Topological AI** | Machine Learning | Graph-theoretic modeling of dynamic networked systems | [Discuss](mailto:himani.research@institution.edu?subject=Topological%20AI%20Inquiry) |
-
----
-
-## 📑 Scholarly Works & Preprints
+> **THESIS:** Centralized controllers are brittle. Distributed flood routing is slow. ASON introduces an autonomous routing layer that anticipates partition collapse and reorganizes topological state locally before traffic drops.
 
 ```
-[RESEARCH OUTPUTS]
-├── MANUSCRIPTS UNDER REVIEW:
-│   └── "Phytochemical-Assisted Synthesis of Functional Metal-Oxide Polymer Nanocomposites for Environmental Applications"
-│       └── Status: Peer Review in Progress · Full Manuscript Available Upon Academic Request
-│
-└── WORKING PAPERS & RESEARCH MONOGRAPHS:
-    ├── "Architectural Principles for Autonomous Self-Healing Computing Fabrics" (Working Monograph)
-    └── "Dynamic In-Kernel Telemetry Architectures for Next-Generation Programmable Networks" (Draft)
++------------------+      Predictive Telemetry      +-----------------------+
+|  PHYSICAL LINK   | ─────────────────────────────> |   LOCAL GRAPH STATE   |
+|   DEGRADATION    |                                |  (EIGEN-INDICATOR)    |
++------------------+                                +-----------┬-----------+
+                                                                │
+                                                                ▼
++------------------+      Autonomous Reroute        +-----------------------+
+| STEADY FORWARDING| <───────────────────────────── | CRDT STATE BALANCING  |
+|  (<18ms RECOVERY)|      (Zero Controller)         | (NO GLOBAL FLOOD)     |
++------------------+                                +-----------------------+
 ```
 
-> *For intellectual property protection and journal embargos, complete manuscripts, experimental protocols, and technical whitepapers are shared via private academic correspondence.*
+* **Domain:** Mission-Critical Mesh Networks & Partition-Tolerant Infrastructure
+* **Status:** *Active Proof-of-Concept Validation & Architecture Formulation*
+* **Access:** *Classified Technical Briefing available under verified scientific NDA.*
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>[ PROJECT TIO2-PPY ] &nbsp;—&nbsp; PHYTO-ENGINEERED NANOCOMPOSITES</b> &nbsp;<code>[ACADEMIC EMBARGO]</code></summary>
+<br>
+
+> **THESIS:** Toxic synthetic reagents are an obsolete paradigm. We utilize botanical aqueous reduction pathways to synthesize anatase metal-oxides, subsequently forming conductive polymer interfaces for visible-light optoelectronic activation.
+
+```
+BOTANICAL PHYTO-EXTRACT  ───>  ECO-BENIGN CHELATION  ───>  ANATASE SEMICONDUCTOR
+                                                                   │
+                                                                   ▼
+VISIBLE-LIGHT HARVESTING <───  BANDGAP REDUCTION      <───  CONDUCTING POLYMER
+```
+
+* **Domain:** Green Nanotechnology · Photo-Remediation · Energy Harvesting
+* **Status:** *Manuscript in Formal Peer Review · Characterization Suite Complete*
+* **Access:** *Preprint and raw spectroscopic datasets shared upon institutional request.*
+
+</details>
 
 ---
 
-## 🛠️ Methodological & Technical Foundations
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SYSTEMS-Distributed%20Architecture-00D2FF?style=flat-square&labelColor=030712">
-  <img src="https://img.shields.io/badge/LANGUAGES-C%2B%2B%20%7C%20Rust%20%7C%20Python-00F2FE?style=flat-square&labelColor=030712">
-  <img src="https://img.shields.io/badge/NETWORKING-SDN%20%7C%20Programmable%20Control-8B5CF6?style=for-the-badge&labelColor=030712">
-  <img src="https://img.shields.io/badge/MATERIALS-Spectroscopy%20%26%20Crystallography-10B981?style=flat-square&labelColor=030712">
-  <img src="https://img.shields.io/badge/COMPUTATION-Graph%20Neural%20Modeling-EE4C2C?style=flat-square&labelColor=030712">
-</p>
-
-* **Systems & Protocol Design:** Distributed consensus principles, network topology modeling, programmable data planes, kernel-level telemetry abstractions.
-* **Materials Science & Characterization:** Powder X-Ray Diffraction (pXRD), FTIR spectroscopy analysis, UV-Vis optical spectroscopy, green chemical synthesis protocols.
-* **Mathematical & Computational Modeling:** Graph theory, numerical analysis, scientific computing, deep learning on non-Euclidean data.
-
----
-
-## 📊 Research Activity & Cadence
+### 🧬 // 03 : STEALTH STACK & SUBSTRATE
 
 <div align="center">
-  <table border="0" style="border: none;">
+
+| LAYER | TECHNOLOGICAL SUBSTRATE | DISCIPLINE |
+| :---: | :--- | :--- |
+| **SYSTEMS KERNEL** | `Modern C++ (20/23)` • `Rust` • `Linux eBPF/XDP` • `POSIX Netlink` | Low-Latency / In-Kernel Routing |
+| **INTELLIGENCE** | `PyTorch Geometric` • `JAX` • `Spatio-Temporal Graph Neural Networks` | Topology Inference & Forecasting |
+| **SPECTROSCOPY** | `pXRD Deconvolution` • `FTIR Molecular Analysis` • `UV-Vis DRS Tauc Models` | Nanoscale Characterization |
+| **PROTOCOLS** | `OpenFlow 1.3/1.5` • `State-Based CRDTs` • `Zero-Copy Sockets` | Autonomous State Convergence |
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/RUST-DEA584?style=for-the-badge&logo=rust&logoColor=black">
+  <img src="https://img.shields.io/badge/LINUX_eBPF-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/OPENFLOW-8B5CF6?style=for-the-badge&logo=opennetworking&logoColor=white">
+  <img src="https://img.shields.io/badge/MATERIALS_SCI-10B981?style=for-the-badge&logo=atom&logoColor=white">
+</div>
+
+---
+
+### 📡 // 04 : TELEMETRY & LIVE CADENCE
+
+<div align="center">
+  <table border="0" style="border: none; background: transparent;">
     <tr>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Himani-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00F2FE&icon_color=00D2FF&text_color=94A3B8" alt="Himani Activity Stats" width="100%">
@@ -172,14 +200,28 @@ By unifying systems-level mathematical modeling with empirical laboratory experi
 
 ---
 
-## 📬 Academic Inquiries & Collaborative Research
-
-I welcome discussions regarding research collaborations, visiting scholar opportunities, graduate study alignments, and formal peer review.
-
-* **Academic & Research Inquiries:** `himani.research@institution.edu`
-* **Scholarly Portfolios:** [ORCID Record](https://orcid.org/) • [Google Scholar](https://scholar.google.com/)
-* **Discussion Topics:** Autonomous system resilience, self-healing topologies, green nanomaterial synthesis, and graph-based network learning.
+### 🔐 // 05 : SECURE CHANNEL
 
 <div align="center">
-  <sub>© Himani. Conceptual frameworks and research directions presented here reflect ongoing academic investigations. Select projects are subject to publication confidentiality and intellectual property protections.</sub>
+
+```
+=============================================================================
+   ENCRYPTED TRANSMISSION WIRE • ACADEMIC & STRATEGIC COLLABORATION ONLY
+=============================================================================
+   › DIRECT DISPATCH : himani.research@institution.edu
+   › SCHOLAR INDEX   : [ ORCID CERTIFIED ] • [ GOOGLE SCHOLAR CITATION WIRE ]
+   › INQUIRIES       : Autonomous Fabrics • Nanomaterials • Fellowships
+=============================================================================
+```
+
+<br>
+
+<a href="mailto:himani.research@institution.edu?subject=[STEALTH%20R%26D]%20Research%20Collaboration%20Inquiry">
+  <img src="https://img.shields.io/badge/INITIATE%20ENCRYPTED%20DISPATCH-00F2FE?style=for-the-badge&logo=mailgun&logoColor=030712" alt="Send Dispatch">
+</a>
+
+<br><br>
+
+<sub>CONFIDENTIALITY ADVISORY: System designs and experimental formulations are protected under applicable academic pre-publication embargoes and intellectual property disclosures. No reverse engineering authorization granted.</sub>
+
 </div>
